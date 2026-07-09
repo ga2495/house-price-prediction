@@ -1,0 +1,801 @@
+City,Locality,Distance_km,Area_sqft,BHK,Land_Price_per_sqft,Total_Price_INR
+Mumbai,Borivali West,12.0,1064,2,11005,11709320
+Ahmedabad,Vastrapur,15.7,527,1,4797,2528019
+Jaipur,Bapu Nagar,7.4,1438,4,2074,2982412
+Ahmedabad,Naranpura,8.7,2233,1,4472,9985976
+Surat,Varachha,14.8,2092,2,1607,3361844
+Ahmedabad,Gota,4.1,1410,3,2260,3186600
+Delhi,Pitampura,25.4,2491,1,8170,20351470
+Hyderabad,Gachibowli,6.7,1436,2,9369,13453884
+Pune,Shivajinagar,11.2,859,4,6823,5860957
+Surat,Piplod,5.6,1740,1,1864,3243360
+Mumbai,Malad East,7.6,1002,4,20666,20707332
+Delhi,Janakpuri,19.4,2234,4,14561,32529274
+Hyderabad,Madhapur,21.2,2096,1,9402,19706592
+Surat,Piplod,5.6,1562,1,1864,2911568
+Jaipur,Mansarovar,3.9,1293,4,5219,6748167
+Chennai,Anna Nagar,7.6,1095,2,6414,7023330
+Jaipur,Sanganer,5.0,1457,4,4097,5969329
+Bangalore,Malleshwaram,10.5,1383,4,11509,15916947
+Hyderabad,Banjara Hills,12.4,1825,3,9094,16596550
+Kolkata,Salt Lake,12.8,647,1,7299,4722453
+Chennai,Adyar,18.6,511,1,8552,4370072
+Kolkata,Tollygunge,9.7,1701,4,6895,11728395
+Hyderabad,Secunderabad,6.5,1960,3,7795,15278200
+Mumbai,Chembur,18.8,2445,4,8161,19953645
+Surat,Chorasi,19.7,823,2,3271,2692033
+Mumbai,Andheri East,38.3,621,3,23795,14776695
+Ahmedabad,Bodakdev,18.1,727,3,6632,4821464
+Chennai,Kodambakkam,17.4,897,3,11360,10189920
+Hyderabad,Banjara Hills,12.4,1438,1,9094,13077172
+Ahmedabad,Vastrapur,15.7,1562,2,4797,7492914
+Chennai,Mylapore,21.9,1548,4,4217,6527916
+Hyderabad,Dilsukhnagar,14.9,777,1,6526,5070702
+Pune,Camp,22.1,637,4,6177,3934749
+Ahmedabad,Jodhpur,3.1,1915,3,2003,3835745
+Mumbai,Dadar,22.3,1911,4,23787,45456957
+Mumbai,Dadar,22.3,1604,2,23787,38154348
+Bangalore,Jayanagar,14.3,970,3,10655,10335350
+Hyderabad,Ameerpet,19.1,2094,3,8868,18569592
+Delhi,Preet Vihar,23.6,2352,4,9893,23268336
+Chennai,Anna Nagar,7.6,896,2,6414,5746944
+Mumbai,Andheri East,38.3,1738,3,23795,41355710
+Bangalore,Indiranagar,13.6,1199,3,14757,17693643
+Ahmedabad,Navrangpura,14.7,606,2,3753,2274318
+Kolkata,Park Street,19.1,1480,2,7497,11095560
+Chennai,Adyar,18.6,1825,3,8552,15607400
+Delhi,Saket,16.7,2195,2,6306,13841670
+Pune,Hadapsar,11.9,645,1,4015,2589675
+Mumbai,Vile Parle,21.5,2381,3,17762,42291322
+Mumbai,Thane,36.4,1248,3,23934,29869632
+Bangalore,BTM Layout,23.8,1301,4,14457,18808557
+Mumbai,Thane,36.4,2257,4,23934,54019038
+Hyderabad,Dilsukhnagar,14.9,1935,3,6526,12627810
+Kolkata,Jadavpur,24.7,1497,1,4541,6797877
+Surat,Chorasi,19.7,1952,3,3271,6384992
+Chennai,Chrompet,25.1,1925,1,3633,6993525
+Chennai,Velachery,23.8,1508,2,9488,14307904
+Ahmedabad,Navrangpura,14.7,2390,1,3753,8969670
+Hyderabad,Gachibowli,6.7,1630,2,9369,15271470
+Hyderabad,Madhapur,21.2,1188,3,9402,11169576
+Mumbai,Andheri East,38.3,1896,4,23795,45115320
+Kolkata,Tollygunge,9.7,1903,2,6895,13121185
+Pune,Hinjewadi,10.5,1826,3,6962,12712612
+Mumbai,Goregaon,26.9,1871,3,18817,35206607
+Bangalore,HSR Layout,25.7,2124,4,9949,21131676
+Chennai,Kodambakkam,17.4,1453,2,11360,16506080
+Surat,Athwa,15.7,1304,3,4141,5399864
+Kolkata,Park Street,19.1,1924,1,7497,14424228
+Chennai,Besant Nagar,6.4,955,4,7209,6884595
+Jaipur,C Scheme,14.2,1053,4,1697,1786941
+Chennai,Besant Nagar,6.4,1394,1,7209,10049346
+Pune,Shivajinagar,11.2,1260,3,6823,8596980
+Delhi,Dwarka Sector 14,25.5,501,1,6495,3253995
+Hyderabad,Banjara Hills,12.4,2412,1,9094,21934728
+Bangalore,Rajajinagar,22.2,2343,4,8142,19076706
+Ahmedabad,Maninagar,19.8,577,4,3276,1890252
+Mumbai,Andheri East,38.3,843,2,23795,20059185
+Delhi,Preet Vihar,23.6,516,4,9893,5104788
+Jaipur,Vaishali Nagar,12.8,2453,1,3104,7614112
+Mumbai,Thane,36.4,595,1,23934,14240730
+Kolkata,Jadavpur,24.7,1337,3,4541,6071317
+Ahmedabad,Thaltej,6.4,758,1,3810,2887980
+Kolkata,Park Street,19.1,1405,3,7497,10533285
+Bangalore,Jayanagar,14.3,813,2,10655,8662515
+Bangalore,Yelahanka,26.3,1015,1,13823,14030345
+Bangalore,Whitefield,13.7,1069,2,12319,13169011
+Kolkata,New Town,24.9,1828,1,7182,13128696
+Chennai,Kodambakkam,17.4,1753,1,11360,19914080
+Pune,Kharadi,4.3,1601,1,3384,5417784
+Bangalore,Koramangala,7.6,2348,3,12096,28401408
+Hyderabad,Kukatpally,7.8,1295,1,3036,3931620
+Hyderabad,Jubilee Hills,21.7,827,2,8016,6629232
+Kolkata,Park Street,19.1,1320,1,7497,9896040
+Ahmedabad,Satellite,5.9,2312,3,2671,6175352
+Pune,Hinjewadi,10.5,1123,1,6962,7818326
+Chennai,Guindy,15.7,1133,3,5042,5712586
+Pune,Hinjewadi,10.5,1077,2,6962,7498074
+Hyderabad,Hitech City,20.9,1790,2,3002,5373580
+Pune,Viman Nagar,18.4,1774,2,5508,9771192
+Mumbai,Andheri East,38.3,630,4,23795,14990850
+Delhi,Vasant Kunj,25.3,1827,1,9061,16554447
+Ahmedabad,Bodakdev,18.1,1917,4,6632,12713544
+Pune,Kharadi,4.3,1017,3,3384,3441528
+Pune,Camp,22.1,1924,4,6177,11884548
+Pune,Viman Nagar,18.4,889,1,5508,4896612
+Kolkata,Dumdum,6.4,1724,3,7399,12755876
+Hyderabad,Jubilee Hills,21.7,953,2,8016,7639248
+Chennai,Anna Nagar,7.6,1542,3,6414,9890388
+Ahmedabad,Jodhpur,3.1,1958,2,2003,3921874
+Hyderabad,Hitech City,20.9,1880,2,3002,5643760
+Ahmedabad,Paldi,6.2,505,3,5421,2737605
+Ahmedabad,Gota,4.1,828,1,2260,1871280
+Ahmedabad,Vastrapur,15.7,1797,4,4797,8620209
+Ahmedabad,Thaltej,6.4,1058,4,3810,4030980
+Kolkata,Salt Lake,12.8,1884,4,7299,13751316
+Pune,Kharadi,4.3,1668,3,3384,5644512
+Pune,Aundh,6.7,987,1,9600,9475200
+Bangalore,Koramangala,7.6,1184,4,12096,14321664
+Chennai,Kodambakkam,17.4,1686,1,11360,19152960
+Kolkata,Garia,16.3,1424,4,5495,7824880
+Bangalore,Whitefield,13.7,2395,3,12319,29504005
+Mumbai,Vile Parle,21.5,2214,1,17762,39325068
+Delhi,Janakpuri,19.4,2469,1,14561,35951109
+Chennai,Adyar,18.6,1691,1,8552,14461432
+Jaipur,Shyam Nagar,13.7,2470,4,5097,12589590
+Kolkata,Dumdum,6.4,1804,1,7399,13347796
+Ahmedabad,Satellite,5.9,1144,1,2671,3055624
+Chennai,Mylapore,21.9,1384,4,4217,5836328
+Pune,Camp,22.1,568,4,6177,3508536
+Kolkata,New Town,24.9,2259,1,7182,16224138
+Delhi,Lajpat Nagar,18.0,1108,4,7327,8118316
+Kolkata,Salt Lake,12.8,1165,2,7299,8503335
+Chennai,T Nagar,26.1,614,2,10248,6292272
+Kolkata,Garia,16.3,693,2,5495,3808035
+Jaipur,Shyam Nagar,13.7,2470,3,5097,12589590
+Mumbai,Andheri East,38.3,1595,3,23795,37953025
+Chennai,T Nagar,26.1,1899,1,10248,19460952
+Kolkata,Salt Lake,12.8,1348,3,7299,9839052
+Ahmedabad,Bodakdev,18.1,2459,4,6632,16308088
+Surat,Rander,15.3,2039,1,4533,9242787
+Ahmedabad,Vastrapur,15.7,2406,3,4797,11541582
+Pune,Wakad,6.9,1483,1,5150,7637450
+Pune,Koregaon Park,18.6,1470,1,6376,9372720
+Delhi,Karol Bagh,24.2,2229,2,10592,23609568
+Delhi,Rohini Sector 6,11.9,746,4,5854,4367084
+Chennai,Chrompet,25.1,702,1,3633,2550366
+Pune,Viman Nagar,18.4,1408,1,5508,7755264
+Ahmedabad,Naranpura,8.7,2475,3,4472,11068200
+Hyderabad,Banjara Hills,12.4,2328,2,9094,21170832
+Mumbai,Goregaon,26.9,2476,2,18817,46590892
+Hyderabad,Hitech City,20.9,1718,1,3002,5157436
+Delhi,Shahdara,24.0,1454,4,6218,9040972
+Bangalore,Electronic City,21.1,1496,3,8070,12072720
+Surat,Chorasi,19.7,875,2,3271,2862125
+Mumbai,Malad East,7.6,1225,4,20666,25315850
+Bangalore,Yelahanka,26.3,1291,4,13823,17845493
+Delhi,Lajpat Nagar,18.0,2430,2,7327,17804610
+Chennai,Adyar,18.6,1791,1,8552,15316632
+Pune,Viman Nagar,18.4,1208,4,5508,6653664
+Chennai,Velachery,23.8,2259,2,9488,21433392
+Delhi,Janakpuri,19.4,1050,4,14561,15289050
+Pune,Viman Nagar,18.4,1382,2,5508,7612056
+Ahmedabad,Thaltej,6.4,612,4,3810,2331720
+Delhi,Lajpat Nagar,18.0,1849,3,7327,13547623
+Pune,Aundh,6.7,1184,3,9600,11366400
+Delhi,Pitampura,25.4,1086,4,8170,8872620
+Mumbai,Borivali West,12.0,1276,2,11005,14042380
+Kolkata,Dumdum,6.4,2405,1,7399,17794595
+Delhi,Preet Vihar,23.6,1158,4,9893,11456094
+Chennai,Besant Nagar,6.4,1428,4,7209,10294452
+Surat,Olpad,15.0,1609,1,4859,7818131
+Delhi,Pitampura,25.4,1009,4,8170,8243530
+Kolkata,Salt Lake,12.8,1572,1,7299,11474028
+Delhi,Janakpuri,19.4,1671,3,14561,24331431
+Delhi,Karol Bagh,24.2,1686,2,10592,17858112
+Mumbai,Andheri East,38.3,1371,4,23795,32622945
+Kolkata,Alipore,16.0,1643,4,5310,8724330
+Pune,Wakad,6.9,1519,3,5150,7822850
+Mumbai,Vile Parle,21.5,1002,2,17762,17797524
+Hyderabad,Gachibowli,6.7,1271,4,9369,11907999
+Surat,Udhna,13.4,568,2,4354,2473072
+Bangalore,Jayanagar,14.3,1648,2,10655,17559440
+Delhi,Janakpuri,19.4,1371,2,14561,19963131
+Kolkata,Park Street,19.1,1810,1,7497,13569570
+Bangalore,Jayanagar,14.3,1226,4,10655,13063030
+Bangalore,Koramangala,7.6,1699,2,12096,20551104
+Hyderabad,Madhapur,21.2,1622,1,9402,15250044
+Ahmedabad,Satellite,5.9,1574,2,2671,4204154
+Delhi,Lajpat Nagar,18.0,1251,3,7327,9166077
+Hyderabad,Dilsukhnagar,14.9,1493,4,6526,9743318
+Kolkata,Dumdum,6.4,1732,3,7399,12815068
+Delhi,Shahdara,24.0,729,2,6218,4532922
+Mumbai,Chembur,18.8,1315,3,8161,10731715
+Jaipur,Bapu Nagar,7.4,1375,3,2074,2851750
+Delhi,Saket,16.7,2350,3,6306,14819100
+Ahmedabad,Thaltej,6.4,1401,1,3810,5337810
+Mumbai,Kurla,24.0,1586,4,14331,22728966
+Pune,Koregaon Park,18.6,1853,4,6376,11814728
+Pune,Kharadi,4.3,2386,1,3384,8074224
+Kolkata,Howrah,10.2,1013,2,7005,7096065
+Hyderabad,Dilsukhnagar,14.9,1847,2,6526,12053522
+Mumbai,Borivali West,12.0,1340,1,11005,14746700
+Pune,Hinjewadi,10.5,1352,1,6962,9412624
+Ahmedabad,Vastrapur,15.7,625,2,4797,2998125
+Ahmedabad,Vastrapur,15.7,1305,2,4797,6260085
+Jaipur,Malviya Nagar,4.6,2363,4,2752,6502976
+Jaipur,Bapu Nagar,7.4,2052,3,2074,4255848
+Hyderabad,Madhapur,21.2,2013,3,9402,18926226
+Chennai,Anna Nagar,7.6,764,4,6414,4900296
+Mumbai,Kurla,24.0,2336,3,14331,33477216
+Ahmedabad,Satellite,5.9,1023,1,2671,2732433
+Ahmedabad,Navrangpura,14.7,836,1,3753,3137508
+Hyderabad,Madhapur,21.2,2296,1,9402,21586992
+Kolkata,Jadavpur,24.7,1109,1,4541,5035969
+Bangalore,HSR Layout,25.7,1619,2,9949,16107431
+Surat,Udhna,13.4,2262,3,4354,9848748
+Kolkata,New Town,24.9,826,1,7182,5932332
+Jaipur,Bani Park,12.9,2473,3,4917,12159741
+Surat,Varachha,14.8,2136,3,1607,3432552
+Ahmedabad,Navrangpura,14.7,507,1,3753,1902771
+Pune,Kharadi,4.3,1981,2,3384,6703704
+Mumbai,Bandra West,11.4,689,3,10433,7188337
+Kolkata,New Town,24.9,1841,3,7182,13222062
+Pune,Camp,22.1,1284,2,6177,7931268
+Ahmedabad,Paldi,6.2,967,2,5421,5242107
+Pune,Hadapsar,11.9,1805,1,4015,7247075
+Chennai,Guindy,15.7,2356,1,5042,11878952
+Mumbai,Thane,36.4,1930,1,23934,46192620
+Mumbai,Malad East,7.6,1551,1,20666,32052966
+Jaipur,C Scheme,14.2,1964,2,1697,3332908
+Bangalore,Electronic City,21.1,1599,3,8070,12903930
+Bangalore,BTM Layout,23.8,2360,2,14457,34118520
+Chennai,Guindy,15.7,669,4,5042,3373098
+Chennai,Kodambakkam,17.4,2366,3,11360,26877760
+Pune,Aundh,6.7,2074,4,9600,19910400
+Bangalore,Electronic City,21.1,1508,3,8070,12169560
+Mumbai,Bandra West,11.4,752,2,10433,7845616
+Delhi,Shahdara,24.0,969,3,6218,6025242
+Chennai,Guindy,15.7,999,2,5042,5036958
+Surat,Vesu,19.8,1664,1,4741,7889024
+Jaipur,Malviya Nagar,4.6,1100,4,2752,3027200
+Bangalore,Koramangala,7.6,2390,2,12096,28909440
+Ahmedabad,Jodhpur,3.1,1446,2,2003,2896338
+Hyderabad,Secunderabad,6.5,1056,3,7795,8231520
+Jaipur,Mansarovar,3.9,1126,3,5219,5876594
+Ahmedabad,Bodakdev,18.1,1993,3,6632,13217576
+Ahmedabad,Thaltej,6.4,589,1,3810,2244090
+Jaipur,C Scheme,14.2,2146,3,1697,3641762
+Delhi,Karol Bagh,24.2,1300,4,10592,13769600
+Jaipur,Sanganer,5.0,1484,2,4097,6079948
+Jaipur,Ajmer Road,2.3,1513,1,4435,6710155
+Ahmedabad,Thaltej,6.4,638,2,3810,2430780
+Surat,Rander,15.3,1481,1,4533,6713373
+Chennai,Chrompet,25.1,1385,4,3633,5031705
+Delhi,Pitampura,25.4,2443,1,8170,19959310
+Bangalore,Malleshwaram,10.5,1376,2,11509,15836384
+Jaipur,C Scheme,14.2,1812,1,1697,3074964
+Surat,Vesu,19.8,528,2,4741,2503248
+Jaipur,Sanganer,5.0,855,4,4097,3502935
+Chennai,Perambur,29.7,1213,3,10994,13335722
+Pune,Baner,7.6,1701,4,8127,13824027
+Mumbai,Vile Parle,21.5,897,3,17762,15932514
+Delhi,Dwarka Sector 14,25.5,2330,2,6495,15133350
+Ahmedabad,Gota,4.1,1942,3,2260,4388920
+Hyderabad,Ameerpet,19.1,1691,4,8868,14995788
+Chennai,Chrompet,25.1,1171,1,3633,4254243
+Delhi,Saket,16.7,817,1,6306,5152002
+Delhi,Dwarka Sector 14,25.5,1910,2,6495,12405450
+Pune,Baner,7.6,1668,3,8127,13555836
+Ahmedabad,Maninagar,19.8,1165,1,3276,3816540
+Pune,Aundh,6.7,749,2,9600,7190400
+Pune,Koregaon Park,18.6,872,4,6376,5559872
+Mumbai,Goregaon,26.9,1551,4,18817,29185167
+Hyderabad,Hitech City,20.9,1280,2,3002,3842560
+Mumbai,Thane,36.4,1609,3,23934,38509806
+Chennai,Anna Nagar,7.6,944,4,6414,6054816
+Hyderabad,Lingampally,8.7,1849,4,5012,9267188
+Hyderabad,Madhapur,21.2,1570,2,9402,14761140
+Hyderabad,Hitech City,20.9,1079,1,3002,3239158
+Jaipur,Vaishali Nagar,12.8,1819,1,3104,5646176
+Ahmedabad,Gota,4.1,1842,1,2260,4162920
+Jaipur,Malviya Nagar,4.6,1688,1,2752,4645376
+Mumbai,Goregaon,26.9,2321,4,18817,43674257
+Mumbai,Bandra West,11.4,1837,4,10433,19165421
+Chennai,Chrompet,25.1,1750,4,3633,6357750
+Ahmedabad,Vastrapur,15.7,1715,3,4797,8226855
+Mumbai,Chembur,18.8,2250,2,8161,18362250
+Mumbai,Chembur,18.8,955,3,8161,7793755
+Chennai,Velachery,23.8,778,1,9488,7381664
+Delhi,Pitampura,25.4,2375,4,8170,19403750
+Pune,Shivajinagar,11.2,1718,1,6823,11721914
+Surat,Rander,15.3,992,4,4533,4496736
+Ahmedabad,Gota,4.1,2073,4,2260,4684980
+Kolkata,Howrah,10.2,1199,1,7005,8398995
+Delhi,Saket,16.7,1472,4,6306,9282432
+Pune,Viman Nagar,18.4,509,2,5508,2803572
+Delhi,Karol Bagh,24.2,2439,4,10592,25833888
+Pune,Kharadi,4.3,1960,3,3384,6632640
+Pune,Baner,7.6,1001,3,8127,8135127
+Surat,Rander,15.3,538,4,4533,2438754
+Surat,Vesu,19.8,1939,2,4741,9192799
+Jaipur,Bani Park,12.9,1482,2,4917,7286994
+Delhi,Karol Bagh,24.2,1800,2,10592,19065600
+Chennai,Chrompet,25.1,1752,4,3633,6365016
+Hyderabad,Gachibowli,6.7,2107,3,9369,19740483
+Kolkata,Park Street,19.1,1230,2,7497,9221310
+Hyderabad,Ameerpet,19.1,1670,4,8868,14809560
+Jaipur,Bani Park,12.9,2434,4,4917,11967978
+Chennai,Besant Nagar,6.4,886,1,7209,6387174
+Hyderabad,Kukatpally,7.8,1846,2,3036,5604456
+Kolkata,Howrah,10.2,1274,2,7005,8924370
+Bangalore,Rajajinagar,22.2,2474,2,8142,20143308
+Ahmedabad,Vastrapur,15.7,585,3,4797,2806245
+Chennai,Anna Nagar,7.6,2135,1,6414,13693890
+Mumbai,Bandra West,11.4,1010,3,10433,10537330
+Chennai,Velachery,23.8,595,3,9488,5645360
+Kolkata,Howrah,10.2,1314,1,7005,9204570
+Bangalore,Koramangala,7.6,1258,2,12096,15216768
+Delhi,Karol Bagh,24.2,2419,4,10592,25622048
+Hyderabad,Lingampally,8.7,516,1,5012,2586192
+Mumbai,Borivali West,12.0,2008,3,11005,22098040
+Chennai,Kodambakkam,17.4,1532,4,11360,17403520
+Jaipur,Sanganer,5.0,2146,1,4097,8792162
+Surat,Athwa,15.7,901,3,4141,3731041
+Chennai,Mylapore,21.9,1350,4,4217,5692950
+Pune,Hadapsar,11.9,1762,4,4015,7074430
+Ahmedabad,Naranpura,8.7,2261,4,4472,10111192
+Surat,Varachha,14.8,2478,4,1607,3982146
+Bangalore,Indiranagar,13.6,1106,1,14757,16321242
+Jaipur,C Scheme,14.2,1702,3,1697,2888294
+Mumbai,Goregaon,26.9,2079,4,18817,39120543
+Ahmedabad,Naranpura,8.7,2026,2,4472,9060272
+Mumbai,Malad East,7.6,1183,3,20666,24447878
+Jaipur,Shyam Nagar,13.7,642,3,5097,3272274
+Bangalore,BTM Layout,23.8,1021,2,14457,14760597
+Surat,Katargam,15.9,2060,4,1715,3532900
+Pune,Hadapsar,11.9,1740,3,4015,6986100
+Delhi,Vasant Kunj,25.3,2095,4,9061,18982795
+Mumbai,Vile Parle,21.5,1294,3,17762,22984028
+Kolkata,Tollygunge,9.7,2401,3,6895,16554895
+Pune,Kharadi,4.3,1176,1,3384,3979584
+Delhi,Shahdara,24.0,526,3,6218,3270668
+Bangalore,Electronic City,21.1,746,1,8070,6020220
+Bangalore,Jayanagar,14.3,2188,3,10655,23313140
+Pune,Camp,22.1,1973,1,6177,12187221
+Delhi,Dwarka Sector 14,25.5,1198,1,6495,7781010
+Hyderabad,Jubilee Hills,21.7,1454,3,8016,11655264
+Ahmedabad,Navrangpura,14.7,713,1,3753,2675889
+Surat,Piplod,5.6,1438,1,1864,2680432
+Ahmedabad,Gota,4.1,1691,1,2260,3821660
+Delhi,Rohini Sector 6,11.9,1962,4,5854,11485548
+Delhi,Dwarka Sector 14,25.5,1451,1,6495,9424245
+Pune,Wakad,6.9,1858,2,5150,9568700
+Jaipur,Bapu Nagar,7.4,917,3,2074,1901858
+Mumbai,Kurla,24.0,2022,3,14331,28977282
+Surat,Athwa,15.7,1796,3,4141,7437236
+Hyderabad,Gachibowli,6.7,2384,4,9369,22335696
+Chennai,Guindy,15.7,1010,1,5042,5092420
+Bangalore,HSR Layout,25.7,1396,1,9949,13888804
+Mumbai,Chembur,18.8,1219,1,8161,9948259
+Chennai,Mylapore,21.9,608,3,4217,2563936
+Delhi,Preet Vihar,23.6,1572,4,9893,15551796
+Hyderabad,Dilsukhnagar,14.9,1023,1,6526,6676098
+Surat,Varachha,14.8,1316,3,1607,2114812
+Kolkata,Tollygunge,9.7,1332,4,6895,9184140
+Bangalore,HSR Layout,25.7,2274,1,9949,22624026
+Pune,Kharadi,4.3,2393,1,3384,8097912
+Jaipur,Ajmer Road,2.3,1819,2,4435,8067265
+Chennai,Adyar,18.6,784,4,8552,6704768
+Chennai,Mylapore,21.9,1890,2,4217,7970130
+Hyderabad,Ameerpet,19.1,1868,1,8868,16565424
+Delhi,Janakpuri,19.4,1938,3,14561,28219218
+Delhi,Rohini Sector 6,11.9,2233,4,5854,13071982
+Kolkata,Jadavpur,24.7,540,4,4541,2452140
+Mumbai,Kurla,24.0,1680,1,14331,24076080
+Chennai,Kodambakkam,17.4,1232,3,11360,13995520
+Hyderabad,Madhapur,21.2,1189,3,9402,11178978
+Delhi,Janakpuri,19.4,988,4,14561,14386268
+Pune,Wakad,6.9,1237,4,5150,6370550
+Chennai,Chrompet,25.1,1756,3,3633,6379548
+Jaipur,Shyam Nagar,13.7,1002,3,5097,5107194
+Chennai,Velachery,23.8,1238,4,9488,11746144
+Mumbai,Bandra West,11.4,1186,2,10433,12373538
+Surat,Adajan,11.8,686,1,2201,1509886
+Kolkata,Park Street,19.1,2397,1,7497,17970309
+Surat,Adajan,11.8,1175,4,2201,2586175
+Pune,Koregaon Park,18.6,857,4,6376,5464232
+Ahmedabad,Vastrapur,15.7,1796,1,4797,8615412
+Jaipur,Shyam Nagar,13.7,921,1,5097,4694337
+Mumbai,Dadar,22.3,901,3,23787,21432087
+Delhi,Karol Bagh,24.2,660,1,10592,6990720
+Bangalore,Malleshwaram,10.5,1503,4,11509,17298027
+Surat,Piplod,5.6,630,3,1864,1174320
+Jaipur,Sanganer,5.0,1327,4,4097,5436719
+Kolkata,Howrah,10.2,1904,4,7005,13337520
+Surat,Olpad,15.0,1326,2,4859,6443034
+Delhi,Vasant Kunj,25.3,501,1,9061,4539561
+Bangalore,BTM Layout,23.8,1746,4,14457,25241922
+Jaipur,Vaishali Nagar,12.8,1982,4,3104,6152128
+Ahmedabad,Paldi,6.2,574,4,5421,3111654
+Kolkata,Alipore,16.0,595,3,5310,3159450
+Mumbai,Bandra West,11.4,1475,4,10433,15388675
+Delhi,Rohini Sector 6,11.9,1707,3,5854,9992778
+Chennai,Velachery,23.8,2071,4,9488,19649648
+Bangalore,Rajajinagar,22.2,1330,4,8142,10828860
+Jaipur,Mansarovar,3.9,2183,1,5219,11393077
+Hyderabad,Ameerpet,19.1,2204,4,8868,19545072
+Delhi,Preet Vihar,23.6,1459,3,9893,14433887
+Delhi,Dwarka Sector 14,25.5,2136,1,6495,13873320
+Jaipur,Malviya Nagar,4.6,1565,1,2752,4306880
+Jaipur,Vaishali Nagar,12.8,1417,4,3104,4398368
+Delhi,Shahdara,24.0,1187,1,6218,7380766
+Chennai,Adyar,18.6,2100,3,8552,17959200
+Kolkata,Howrah,10.2,2439,1,7005,17085195
+Kolkata,New Town,24.9,1489,1,7182,10693998
+Kolkata,Garia,16.3,1487,2,5495,8171065
+Jaipur,Bani Park,12.9,1954,1,4917,9607818
+Hyderabad,Secunderabad,6.5,1088,2,7795,8480960
+Ahmedabad,Navrangpura,14.7,1303,2,3753,4890159
+Hyderabad,Lingampally,8.7,1746,4,5012,8750952
+Mumbai,Chembur,18.8,795,2,8161,6487995
+Hyderabad,Banjara Hills,12.4,2368,2,9094,21534592
+Delhi,Vasant Kunj,25.3,1560,1,9061,14135160
+Surat,Olpad,15.0,2317,3,4859,11258303
+Delhi,Karol Bagh,24.2,1377,4,10592,14585184
+Mumbai,Bandra West,11.4,1999,2,10433,20855567
+Ahmedabad,Navrangpura,14.7,546,1,3753,2049138
+Mumbai,Chembur,18.8,1576,3,8161,12861736
+Hyderabad,Secunderabad,6.5,1260,2,7795,9821700
+Hyderabad,Jubilee Hills,21.7,1020,2,8016,8176320
+Ahmedabad,Navrangpura,14.7,547,3,3753,2052891
+Hyderabad,Kukatpally,7.8,1637,1,3036,4969932
+Pune,Camp,22.1,1296,1,6177,8005392
+Bangalore,BTM Layout,23.8,522,1,14457,7546554
+Kolkata,New Town,24.9,2000,1,7182,14364000
+Surat,Rander,15.3,1631,2,4533,7393323
+Bangalore,Koramangala,7.6,1024,4,12096,12386304
+Mumbai,Borivali West,12.0,1100,4,11005,12105500
+Hyderabad,Kukatpally,7.8,817,4,3036,2480412
+Pune,Hadapsar,11.9,2452,1,4015,9844780
+Hyderabad,Kukatpally,7.8,1472,1,3036,4468992
+Chennai,Guindy,15.7,1688,1,5042,8510896
+Bangalore,Koramangala,7.6,820,4,12096,9918720
+Mumbai,Dadar,22.3,2000,2,23787,47574000
+Hyderabad,Ameerpet,19.1,862,1,8868,7644216
+Chennai,Perambur,29.7,666,2,10994,7322004
+Pune,Hinjewadi,10.5,934,3,6962,6502508
+Hyderabad,Ameerpet,19.1,1693,1,8868,15013524
+Surat,Olpad,15.0,900,3,4859,4373100
+Kolkata,Salt Lake,12.8,2405,4,7299,17554095
+Surat,Katargam,15.9,2250,1,1715,3858750
+Delhi,Preet Vihar,23.6,1046,4,9893,10348078
+Surat,Olpad,15.0,834,2,4859,4052406
+Surat,Athwa,15.7,1682,2,4141,6965162
+Ahmedabad,Satellite,5.9,1181,4,2671,3154451
+Hyderabad,Ameerpet,19.1,921,3,8868,8167428
+Surat,Varachha,14.8,601,2,1607,965807
+Ahmedabad,Jodhpur,3.1,1641,2,2003,3286923
+Hyderabad,Ameerpet,19.1,690,4,8868,6118920
+Delhi,Pitampura,25.4,1643,2,8170,13423310
+Hyderabad,Banjara Hills,12.4,510,4,9094,4637940
+Delhi,Vasant Kunj,25.3,1516,4,9061,13736476
+Surat,Adajan,11.8,2345,4,2201,5161345
+Hyderabad,Dilsukhnagar,14.9,536,2,6526,3497936
+Kolkata,Howrah,10.2,2071,3,7005,14507355
+Delhi,Dwarka Sector 14,25.5,941,1,6495,6111795
+Bangalore,Koramangala,7.6,2029,4,12096,24542784
+Jaipur,Bani Park,12.9,812,4,4917,3992604
+Delhi,Saket,16.7,1934,4,6306,12195804
+Pune,Viman Nagar,18.4,2070,2,5508,11401560
+Pune,Baner,7.6,2247,1,8127,18261369
+Kolkata,Howrah,10.2,506,4,7005,3544530
+Ahmedabad,Thaltej,6.4,2391,3,3810,9109710
+Kolkata,Jadavpur,24.7,528,2,4541,2397648
+Jaipur,Ajmer Road,2.3,1901,3,4435,8430935
+Delhi,Dwarka Sector 14,25.5,719,2,6495,4669905
+Mumbai,Kurla,24.0,1020,3,14331,14617620
+Delhi,Vasant Kunj,25.3,845,4,9061,7656545
+Pune,Koregaon Park,18.6,970,4,6376,6184720
+Hyderabad,Jubilee Hills,21.7,1474,4,8016,11815584
+Bangalore,Indiranagar,13.6,1427,1,14757,21058239
+Jaipur,Mansarovar,3.9,1777,3,5219,9274163
+Surat,Katargam,15.9,1209,4,1715,2073435
+Kolkata,Behala,9.4,2055,4,5594,11495670
+Mumbai,Andheri East,38.3,1832,2,23795,43592440
+Surat,Adajan,11.8,510,4,2201,1122510
+Mumbai,Dadar,22.3,2295,2,23787,54591165
+Pune,Aundh,6.7,948,2,9600,9100800
+Jaipur,Mansarovar,3.9,2208,4,5219,11523552
+Bangalore,Rajajinagar,22.2,2193,2,8142,17855406
+Chennai,Adyar,18.6,1566,2,8552,13392432
+Kolkata,Alipore,16.0,990,2,5310,5256900
+Ahmedabad,Jodhpur,3.1,1003,2,2003,2009009
+Jaipur,Shyam Nagar,13.7,1164,1,5097,5932908
+Kolkata,Tollygunge,9.7,586,1,6895,4040470
+Surat,Chorasi,19.7,1882,1,3271,6156022
+Bangalore,HSR Layout,25.7,1133,2,9949,11272217
+Jaipur,Malviya Nagar,4.6,1814,2,2752,4992128
+Bangalore,Yelahanka,26.3,1189,4,13823,16435547
+Pune,Baner,7.6,540,1,8127,4388580
+Delhi,Vasant Kunj,25.3,2287,3,9061,20722507
+Kolkata,Jadavpur,24.7,2200,1,4541,9990200
+Jaipur,Jagatpura,3.9,1097,4,2450,2687650
+Surat,Vesu,19.8,1963,4,4741,9306583
+Ahmedabad,Naranpura,8.7,1805,4,4472,8071960
+Surat,Vesu,19.8,976,2,4741,4627216
+Pune,Camp,22.1,625,1,6177,3860625
+Delhi,Janakpuri,19.4,2476,4,14561,36053036
+Delhi,Janakpuri,19.4,2302,1,14561,33519422
+Kolkata,Garia,16.3,1089,1,5495,5984055
+Hyderabad,Hitech City,20.9,1392,4,3002,4178784
+Kolkata,Tollygunge,9.7,827,3,6895,5702165
+Jaipur,Mansarovar,3.9,1371,2,5219,7155249
+Chennai,Mylapore,21.9,1068,4,4217,4503756
+Pune,Hinjewadi,10.5,2348,3,6962,16346776
+Chennai,Velachery,23.8,1162,4,9488,11025056
+Delhi,Shahdara,24.0,1062,1,6218,6603516
+Delhi,Rohini Sector 6,11.9,1229,4,5854,7194566
+Surat,Olpad,15.0,890,2,4859,4324510
+Jaipur,Vaishali Nagar,12.8,2363,1,3104,7334752
+Delhi,Janakpuri,19.4,2459,1,14561,35805499
+Hyderabad,Kukatpally,7.8,539,2,3036,1636404
+Delhi,Preet Vihar,23.6,1743,4,9893,17243499
+Jaipur,Vaishali Nagar,12.8,1372,3,3104,4258688
+Bangalore,Electronic City,21.1,2273,2,8070,18343110
+Bangalore,Yelahanka,26.3,996,2,13823,13767708
+Pune,Koregaon Park,18.6,2036,3,6376,12981536
+Delhi,Rohini Sector 6,11.9,1576,2,5854,9225904
+Delhi,Shahdara,24.0,1545,3,6218,9606810
+Bangalore,Indiranagar,13.6,801,1,14757,11820357
+Pune,Hadapsar,11.9,604,2,4015,2425060
+Bangalore,Malleshwaram,10.5,504,4,11509,5800536
+Pune,Baner,7.6,2227,4,8127,18098829
+Hyderabad,Hitech City,20.9,1612,3,3002,4839224
+Kolkata,Behala,9.4,1404,2,5594,7853976
+Hyderabad,Banjara Hills,12.4,1963,3,9094,17851522
+Surat,Varachha,14.8,1540,1,1607,2474780
+Surat,Vesu,19.8,744,2,4741,3527304
+Delhi,Rohini Sector 6,11.9,793,3,5854,4642222
+Jaipur,C Scheme,14.2,656,4,1697,1113232
+Pune,Koregaon Park,18.6,1782,2,6376,11362032
+Kolkata,Jadavpur,24.7,627,2,4541,2847207
+Kolkata,Dumdum,6.4,1131,2,7399,8368269
+Kolkata,Tollygunge,9.7,1872,3,6895,12907440
+Hyderabad,Gachibowli,6.7,1833,3,9369,17173377
+Bangalore,Whitefield,13.7,1284,2,12319,15817596
+Jaipur,Jagatpura,3.9,2045,2,2450,5010250
+Hyderabad,Gachibowli,6.7,1889,1,9369,17698041
+Kolkata,Howrah,10.2,650,1,7005,4553250
+Surat,Adajan,11.8,2302,1,2201,5066702
+Hyderabad,Gachibowli,6.7,1005,1,9369,9415845
+Jaipur,Shyam Nagar,13.7,1748,1,5097,8909556
+Surat,Rander,15.3,1920,1,4533,8703360
+Kolkata,Behala,9.4,1206,2,5594,6746364
+Chennai,Besant Nagar,6.4,2031,3,7209,14641479
+Hyderabad,Secunderabad,6.5,1554,3,7795,12113430
+Ahmedabad,Satellite,5.9,2468,2,2671,6592028
+Bangalore,HSR Layout,25.7,1760,4,9949,17510240
+Surat,Udhna,13.4,1457,1,4354,6343778
+Pune,Kharadi,4.3,2500,4,3384,8460000
+Pune,Shivajinagar,11.2,2219,4,6823,15140237
+Delhi,Dwarka Sector 14,25.5,1791,4,6495,11632545
+Jaipur,Bapu Nagar,7.4,885,2,2074,1835490
+Bangalore,Jayanagar,14.3,1615,3,10655,17207825
+Surat,Athwa,15.7,1435,3,4141,5942335
+Jaipur,Vaishali Nagar,12.8,2355,4,3104,7309920
+Jaipur,Ajmer Road,2.3,1103,1,4435,4891805
+Chennai,Perambur,29.7,1375,1,10994,15116750
+Hyderabad,Lingampally,8.7,1569,1,5012,7863828
+Surat,Katargam,15.9,873,1,1715,1497195
+Bangalore,Jayanagar,14.3,1333,2,10655,14203115
+Kolkata,Jadavpur,24.7,541,1,4541,2456681
+Jaipur,Ajmer Road,2.3,2249,1,4435,9974315
+Chennai,T Nagar,26.1,1228,4,10248,12584544
+Jaipur,Jagatpura,3.9,2219,4,2450,5436550
+Pune,Baner,7.6,589,4,8127,4786803
+Surat,Chorasi,19.7,2188,1,3271,7156948
+Kolkata,Salt Lake,12.8,841,2,7299,6138459
+Chennai,Kodambakkam,17.4,1412,4,11360,16040320
+Bangalore,Rajajinagar,22.2,1240,2,8142,10096080
+Kolkata,Alipore,16.0,1601,4,5310,8501310
+Jaipur,Shyam Nagar,13.7,2139,1,5097,10902483
+Jaipur,C Scheme,14.2,2023,4,1697,3433031
+Bangalore,BTM Layout,23.8,2257,2,14457,32629449
+Chennai,Perambur,29.7,2054,2,10994,22581676
+Chennai,Besant Nagar,6.4,847,1,7209,6106023
+Bangalore,Koramangala,7.6,1420,2,12096,17176320
+Hyderabad,Kukatpally,7.8,1824,4,3036,5537664
+Surat,Udhna,13.4,1812,4,4354,7889448
+Pune,Wakad,6.9,2373,2,5150,12220950
+Chennai,Mylapore,21.9,1674,1,4217,7059258
+Ahmedabad,Satellite,5.9,1337,1,2671,3571127
+Jaipur,C Scheme,14.2,1520,1,1697,2579440
+Hyderabad,Lingampally,8.7,1174,1,5012,5884088
+Hyderabad,Madhapur,21.2,561,2,9402,5274522
+Hyderabad,Banjara Hills,12.4,1209,4,9094,10994646
+Jaipur,Malviya Nagar,4.6,1115,3,2752,3068480
+Surat,Olpad,15.0,2042,1,4859,9922078
+Surat,Adajan,11.8,1192,3,2201,2623592
+Jaipur,Jagatpura,3.9,1682,1,2450,4120900
+Surat,Katargam,15.9,2178,4,1715,3735270
+Ahmedabad,Naranpura,8.7,1161,1,4472,5191992
+Hyderabad,Kukatpally,7.8,1563,4,3036,4745268
+Ahmedabad,Jodhpur,3.1,1823,1,2003,3651469
+Kolkata,Park Street,19.1,2272,4,7497,17033184
+Mumbai,Thane,36.4,1694,3,23934,40544196
+Bangalore,Malleshwaram,10.5,943,3,11509,10852987
+Jaipur,Bapu Nagar,7.4,1163,2,2074,2412062
+Delhi,Vasant Kunj,25.3,1756,1,9061,15911116
+Ahmedabad,Maninagar,19.8,1909,4,3276,6253884
+Mumbai,Dadar,22.3,1065,2,23787,25333155
+Ahmedabad,Bodakdev,18.1,524,4,6632,3475168
+Delhi,Karol Bagh,24.2,1413,1,10592,14966496
+Jaipur,Mansarovar,3.9,2455,3,5219,12812645
+Surat,Chorasi,19.7,1425,2,3271,4661175
+Surat,Olpad,15.0,2363,4,4859,11481817
+Surat,Katargam,15.9,2445,3,1715,4193175
+Hyderabad,Jubilee Hills,21.7,1483,2,8016,11887728
+Kolkata,Tollygunge,9.7,1999,3,6895,13783105
+Mumbai,Goregaon,26.9,1854,2,18817,34886718
+Ahmedabad,Paldi,6.2,1398,3,5421,7578558
+Bangalore,Malleshwaram,10.5,1337,2,11509,15387533
+Kolkata,Alipore,16.0,1941,4,5310,10306710
+Ahmedabad,Jodhpur,3.1,1346,2,2003,2696038
+Jaipur,Bapu Nagar,7.4,574,2,2074,1190476
+Pune,Hinjewadi,10.5,1577,1,6962,10979074
+Ahmedabad,Naranpura,8.7,1376,3,4472,6153472
+Surat,Vesu,19.8,1196,4,4741,5670236
+Bangalore,Indiranagar,13.6,752,3,14757,11097264
+Chennai,Chrompet,25.1,1672,3,3633,6074376
+Kolkata,Park Street,19.1,1109,4,7497,8314173
+Chennai,Chrompet,25.1,2055,3,3633,7465815
+Kolkata,Behala,9.4,1576,2,5594,8816144
+Surat,Katargam,15.9,2400,1,1715,4116000
+Bangalore,Whitefield,13.7,654,3,12319,8056626
+Mumbai,Andheri East,38.3,1982,3,23795,47161690
+Kolkata,Behala,9.4,2029,4,5594,11350226
+Jaipur,Jagatpura,3.9,2158,1,2450,5287100
+Hyderabad,Madhapur,21.2,715,1,9402,6722430
+Jaipur,Malviya Nagar,4.6,1350,1,2752,3715200
+Kolkata,Tollygunge,9.7,942,3,6895,6495090
+Ahmedabad,Bodakdev,18.1,1122,2,6632,7441104
+Kolkata,Garia,16.3,2201,2,5495,12094495
+Jaipur,Bani Park,12.9,870,3,4917,4277790
+Mumbai,Goregaon,26.9,1754,1,18817,33005018
+Surat,Adajan,11.8,1894,4,2201,4168694
+Kolkata,Garia,16.3,2420,4,5495,13297900
+Ahmedabad,Jodhpur,3.1,1964,2,2003,3933892
+Pune,Koregaon Park,18.6,1283,4,6376,8180408
+Ahmedabad,Satellite,5.9,1989,1,2671,5312619
+Mumbai,Chembur,18.8,837,1,8161,6830757
+Mumbai,Dadar,22.3,2085,4,23787,49595895
+Kolkata,Dumdum,6.4,1801,2,7399,13325599
+Surat,Varachha,14.8,2115,2,1607,3398805
+Bangalore,Indiranagar,13.6,1560,1,14757,23020920
+Delhi,Lajpat Nagar,18.0,1647,1,7327,12067569
+Mumbai,Borivali West,12.0,513,4,11005,5645565
+Surat,Vesu,19.8,1258,3,4741,5964178
+Bangalore,Jayanagar,14.3,1471,2,10655,15673505
+Pune,Camp,22.1,542,3,6177,3347934
+Kolkata,Dumdum,6.4,1235,4,7399,9137765
+Chennai,Perambur,29.7,672,3,10994,7387968
+Bangalore,BTM Layout,23.8,1261,2,14457,18230277
+Pune,Baner,7.6,1428,1,8127,11605356
+Jaipur,Ajmer Road,2.3,1552,3,4435,6883120
+Chennai,Chrompet,25.1,2352,1,3633,8544816
+Ahmedabad,Gota,4.1,2119,2,2260,4788940
+Pune,Shivajinagar,11.2,1718,4,6823,11721914
+Delhi,Lajpat Nagar,18.0,1454,4,7327,10653458
+Mumbai,Malad East,7.6,700,3,20666,14466200
+Pune,Wakad,6.9,1829,2,5150,9419350
+Jaipur,Jagatpura,3.9,715,1,2450,1751750
+Delhi,Rohini Sector 6,11.9,900,3,5854,5268600
+Hyderabad,Secunderabad,6.5,2074,2,7795,16166830
+Ahmedabad,Maninagar,19.8,1138,3,3276,3728088
+Surat,Varachha,14.8,511,3,1607,821177
+Hyderabad,Ameerpet,19.1,852,4,8868,7555536
+Mumbai,Malad East,7.6,1556,2,20666,32156296
+Surat,Udhna,13.4,1257,4,4354,5472978
+Mumbai,Bandra West,11.4,974,1,10433,10161742
+Delhi,Vasant Kunj,25.3,2175,2,9061,19707675
+Mumbai,Chembur,18.8,769,4,8161,6275809
+Pune,Shivajinagar,11.2,594,4,6823,4052862
+Chennai,Perambur,29.7,1253,1,10994,13775482
+Delhi,Shahdara,24.0,2299,2,6218,14295182
+Kolkata,Behala,9.4,1304,1,5594,7294576
+Bangalore,Whitefield,13.7,1461,3,12319,17998059
+Kolkata,Park Street,19.1,526,2,7497,3943422
+Mumbai,Kurla,24.0,2380,1,14331,34107780
+Surat,Rander,15.3,1973,2,4533,8943609
+Chennai,Anna Nagar,7.6,2438,1,6414,15637332
+Kolkata,Alipore,16.0,664,4,5310,3525840
+Kolkata,New Town,24.9,1667,2,7182,11972394
+Kolkata,Garia,16.3,613,1,5495,3368435
+Bangalore,Yelahanka,26.3,1998,4,13823,27618354
+Kolkata,Salt Lake,12.8,784,1,7299,5722416
+Bangalore,Rajajinagar,22.2,768,4,8142,6253056
+Kolkata,Garia,16.3,1330,3,5495,7308350
+Pune,Hinjewadi,10.5,888,4,6962,6182256
+Pune,Aundh,6.7,594,4,9600,5702400
+Hyderabad,Dilsukhnagar,14.9,983,4,6526,6415058
+Surat,Udhna,13.4,2071,2,4354,9017134
+Surat,Athwa,15.7,2013,3,4141,8335833
+Bangalore,HSR Layout,25.7,1712,4,9949,17032688
+Bangalore,Indiranagar,13.6,1872,4,14757,27625104
+Delhi,Pitampura,25.4,651,4,8170,5318670
+Ahmedabad,Naranpura,8.7,1812,1,4472,8103264
+Kolkata,Garia,16.3,2394,3,5495,13155030
+Pune,Koregaon Park,18.6,2089,1,6376,13319464
+Kolkata,Salt Lake,12.8,1502,3,7299,10963098
+Pune,Wakad,6.9,665,1,5150,3424750
+Surat,Piplod,5.6,2024,2,1864,3772736
+Kolkata,Dumdum,6.4,2250,3,7399,16647750
+Delhi,Saket,16.7,1748,1,6306,11022888
+Ahmedabad,Paldi,6.2,728,4,5421,3946488
+Chennai,Besant Nagar,6.4,1640,2,7209,11822760
+Mumbai,Andheri East,38.3,1544,1,23795,36739480
+Hyderabad,Hitech City,20.9,1134,3,3002,3404268
+Hyderabad,Lingampally,8.7,1636,3,5012,8199632
+Ahmedabad,Paldi,6.2,2187,3,5421,11855727
+Mumbai,Thane,36.4,1063,1,23934,25441842
+Bangalore,Indiranagar,13.6,1639,1,14757,24186723
+Mumbai,Dadar,22.3,1521,2,23787,36180027
+Kolkata,Dumdum,6.4,1020,2,7399,7546980
+Ahmedabad,Satellite,5.9,1569,2,2671,4190799
+Pune,Viman Nagar,18.4,1297,4,5508,7143876
+Pune,Aundh,6.7,533,4,9600,5116800
+Chennai,Guindy,15.7,2019,4,5042,10179798
+Mumbai,Goregaon,26.9,1145,1,18817,21545465
+Chennai,Anna Nagar,7.6,2319,3,6414,14874066
+Surat,Chorasi,19.7,2481,2,3271,8115351
+Ahmedabad,Paldi,6.2,1042,3,5421,5648682
+Chennai,Mylapore,21.9,1390,4,4217,5861630
+Kolkata,Dumdum,6.4,2485,4,7399,18386515
+Bangalore,Malleshwaram,10.5,1577,3,11509,18149693
+Mumbai,Bandra West,11.4,1356,4,10433,14147148
+Chennai,T Nagar,26.1,1598,1,10248,16376304
+Jaipur,Vaishali Nagar,12.8,2469,4,3104,7663776
+Chennai,Besant Nagar,6.4,1932,1,7209,13927788
+Bangalore,Electronic City,21.1,2179,2,8070,17584530
+Delhi,Pitampura,25.4,1945,4,8170,15890650
+Surat,Katargam,15.9,1160,3,1715,1989400
+Hyderabad,Dilsukhnagar,14.9,834,4,6526,5442684
+Jaipur,Jagatpura,3.9,727,3,2450,1781150
+Surat,Udhna,13.4,2014,4,4354,8768956
+Pune,Camp,22.1,2375,4,6177,14670375
+Hyderabad,Lingampally,8.7,1747,2,5012,8755964
+Ahmedabad,Satellite,5.9,1033,1,2671,2759143
+Surat,Varachha,14.8,1023,2,1607,1643961
+Bangalore,Malleshwaram,10.5,1492,1,11509,17171428
+Ahmedabad,Paldi,6.2,1419,4,5421,7692399
+Surat,Rander,15.3,1684,2,4533,7633572
+Ahmedabad,Paldi,6.2,1660,3,5421,8998860
+Jaipur,Bani Park,12.9,1832,1,4917,9007944
+Delhi,Shahdara,24.0,1800,2,6218,11192400
+Kolkata,Jadavpur,24.7,1304,3,4541,5921464
+Jaipur,Bapu Nagar,7.4,2490,1,2074,5164260
+Pune,Wakad,6.9,1831,3,5150,9429650
+Jaipur,Bani Park,12.9,1524,1,4917,7493508
+Ahmedabad,Navrangpura,14.7,1293,1,3753,4852629
+Mumbai,Kurla,24.0,891,1,14331,12768921
+Pune,Wakad,6.9,934,3,5150,4810100
+Ahmedabad,Paldi,6.2,849,2,5421,4602429
+Surat,Olpad,15.0,1382,1,4859,6715138
+Kolkata,Alipore,16.0,951,4,5310,5049810
+Bangalore,Rajajinagar,22.2,1135,2,8142,9241170
+Mumbai,Borivali West,12.0,2028,4,11005,22318140
+Chennai,T Nagar,26.1,1325,4,10248,13578600
+Pune,Aundh,6.7,1270,2,9600,12192000
+Delhi,Pitampura,25.4,1654,4,8170,13513180
+Bangalore,Electronic City,21.1,2497,1,8070,20150790
+Hyderabad,Kukatpally,7.8,614,1,3036,1864104
+Delhi,Preet Vihar,23.6,952,1,9893,9418136
+Chennai,Besant Nagar,6.4,1004,2,7209,7237836
+Surat,Adajan,11.8,528,2,2201,1162128
+Pune,Baner,7.6,1231,4,8127,10004337
+Pune,Shivajinagar,11.2,1706,3,6823,11640038
+Chennai,Mylapore,21.9,1622,1,4217,6839974
+Kolkata,Behala,9.4,1887,2,5594,10555878
+Chennai,Adyar,18.6,1253,3,8552,10715656
+Jaipur,Sanganer,5.0,801,2,4097,3281697
+Delhi,Lajpat Nagar,18.0,697,2,7327,5106919
+Jaipur,Sanganer,5.0,640,2,4097,2622080
+Surat,Rander,15.3,2411,3,4533,10929063
+Mumbai,Goregaon,26.9,1748,2,18817,32892116
+Chennai,Perambur,29.7,2310,3,10994,25396140
+Mumbai,Thane,36.4,1683,1,23934,40280922
+Pune,Aundh,6.7,937,2,9600,8995200
+Chennai,Anna Nagar,7.6,2404,1,6414,15419256
+Bangalore,Whitefield,13.7,1811,2,12319,22309709
+Pune,Hinjewadi,10.5,1730,3,6962,12044260
+Delhi,Rohini Sector 6,11.9,2161,3,5854,12650494
+Jaipur,Malviya Nagar,4.6,1073,2,2752,2952896
+Mumbai,Borivali West,12.0,1767,3,11005,19445835
+Kolkata,Salt Lake,12.8,1684,4,7299,12291516
+Mumbai,Vile Parle,21.5,1142,2,17762,20284204
+Delhi,Saket,16.7,1757,3,6306,11079642
+Bangalore,Electronic City,21.1,1289,1,8070,10402230
+Surat,Athwa,15.7,1434,4,4141,5938194
+Pune,Hadapsar,11.9,1326,2,4015,5323890
+Delhi,Saket,16.7,1209,3,6306,7623954
